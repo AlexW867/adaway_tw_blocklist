@@ -1,0 +1,19 @@
+# AdAway AlexW blocklist (for Taiwan)
+# Changelog:
+# 2015-04-24 init
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+
+127.0.0.1  localhost
+::1  localhost
+
+# [General]
+127.0.0.1 tw.img.adon.vpon.com
+127.0.0.1 tw.api.vpon.com
+127.0.0.1 c.adon.vpon.com
+127.0.0.1 kuad1.kusogi.com
+127.0.0.1 kuad2.kusogi.com
+127.0.0.1 ad3.udn.com
+127.0.0.1 rtb.admixer.co.kr
+
